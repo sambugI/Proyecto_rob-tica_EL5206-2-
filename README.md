@@ -1,4 +1,4 @@
-# Proyecto_rob-tica_EL5206-2
+# Proyecto_robótica_EL5206-2
 Integrantes: Benjamín Bautista, Sebastián Cáceres y Samuel Bugueño
 
 Estos son los nodos desarrollados para el proyecto final del curso EL5206-2 Laboratorio de Inteligencia Computacional y Robótica de Ingeniería Eléctrica en La FCFM. Los nodos que se ven anteriormente son para el control de un robot Pioneer 3-DX, por lo que se requiere el uso de RosAria. El repositorio que se usó como base para el proyecto es el siguiente: https://github.com/Uchile-Lab-Vision-Computacional/pioneer_ws.
